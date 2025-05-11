@@ -1,6 +1,5 @@
 #include <vector>
 #include "BegginerProblems.h"
-using namespace std;
 
 /*
 * Problem: Reverse string

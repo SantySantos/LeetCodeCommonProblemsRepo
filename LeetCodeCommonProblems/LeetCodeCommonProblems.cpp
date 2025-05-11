@@ -1,14 +1,12 @@
 #include <iostream>
 #include "BegginerProblems.h"
-#include <vector>
+#include <string>
 
 using namespace std;
 
 int main()
 {
-    BegginerProblems myProblem;
-    vector<char> reverse{ 'h', 'e', 'l', 'l','o' };
-    myProblem.reverseString(reverse);
+    BegginerProblems myProblem;       
 
 }
 
