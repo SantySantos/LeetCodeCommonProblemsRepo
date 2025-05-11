@@ -23,9 +23,9 @@ bool BegginerProblems::isPalindrome(string s) {
 
 	while (start < end) {
 
-		if (isalpha(s[start]) || isdigit(s[start])) {
+		if (isalnum(s[start])) {
 
-			if (isalpha(s[end]) || isdigit(s[end])) {
+			if (isalnum(s[end])) {
 
 				if (tolower(s[start]) != tolower(s[end])) 
 					return false;
