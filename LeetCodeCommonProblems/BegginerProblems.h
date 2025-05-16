@@ -15,5 +15,7 @@ public:
 	bool isPalindrome(string s);
 	bool isPalindromeUsingStackAndQueue(string s);
 
-	
+	//AddDigits
+	int addDigits(int num);
+
 };

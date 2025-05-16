@@ -12,6 +12,7 @@ int main()
     IntermediateProblems myIProblems;
 
     vector<int> nums = { 10, 2 };
-    cout <<  myIProblems.largestNumber(nums);
+
+    myProblem.addDigits(123);
 }
 
