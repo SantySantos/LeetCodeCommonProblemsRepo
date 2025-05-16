@@ -17,36 +17,39 @@ using namespace std;
 *
 * Time complexity: O(n)/2
 */
-
 bool BegginerProblems::isPalindrome(string s) {
-	
+
 	int end = s.length() - 1;
 	int start = 0;
 
 	while (start < end) {
 
-		if (isalnum(s[start])) {
-
-			if (isalnum(s[end])) {
-				 
-				if (tolower(s[start]) != tolower(s[end])) 
-					return false;
-										
-				else {
-					start++;
-					end--;
-				}					
-			}
-			else 
-				end--;			
+		if (!isalnum(s[start])) 
+		{
+			start++;
+			continue;
 		}
-		else 
-			start++;		
+
+		if (!isalnum(s[end])) {
+
+			end--;
+			continue;
+		}
+
+
+		if (tolower(s[start]) != tolower(s[end])) 
+			return false;
+		else {
+			start++;
+			end--;
+		}	
+		
 	}
 
 	return true;
 
 }
+
 
 /*
 * Approach: using stack and queue, we add alphanum lower characters to it, and afterwards we check if the top of the stack is the same for each char, if so, return true, else return false
