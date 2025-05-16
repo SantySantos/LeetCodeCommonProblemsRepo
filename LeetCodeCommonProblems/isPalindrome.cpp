@@ -1,6 +1,8 @@
 #include <string>
 #include <iostream>
 #include <cctype>
+#include <stack>
+#include <queue>
 #include "BegginerProblems.h"
 
 using namespace std;
@@ -26,7 +28,7 @@ bool BegginerProblems::isPalindrome(string s) {
 		if (isalnum(s[start])) {
 
 			if (isalnum(s[end])) {
-
+				 
 				if (tolower(s[start]) != tolower(s[end])) 
 					return false;
 										
@@ -44,4 +46,34 @@ bool BegginerProblems::isPalindrome(string s) {
 
 	return true;
 
+}
+
+/*
+* Approach: using stack and queue, we add alphanum lower characters to it, and afterwards we check if the top of the stack is the same for each char, if so, return true, else return false
+*
+* Time complexity: O(N^2)
+*/
+bool BegginerProblems::isPalindromeUsingStackAndQueue(string s) {
+
+	stack<char> myStack;
+	queue<char> myQueue;
+
+	for (char c : s) {
+
+		if (isalnum(c)) {
+
+			myStack.push(tolower(c));
+			myQueue.push(tolower(c));
+		}
+	}
+
+	while (!myStack.empty() || !myQueue.empty()) {
+
+		if (myStack.top() != myQueue.front())
+			return false;
+		
+		myStack.pop();
+		myQueue.pop();
+	}
+	return true;
 }

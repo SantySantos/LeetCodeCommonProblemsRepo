@@ -11,6 +11,9 @@ public:
 	//Reverse an array.
 	void reverseString(vector<char>& s);
 	 
-	//check if palindrome
+	//check if palindrome.
 	bool isPalindrome(string s);
+	bool isPalindromeUsingStackAndQueue(string s);
+
+	
 };
