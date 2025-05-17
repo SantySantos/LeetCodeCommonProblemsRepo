@@ -17,5 +17,7 @@ public:
 
 	//AddDigits
 	int addDigits(int num);
-
+	
+	//Second Largest Digit in a String
+	int secondHighest(string s);
 };

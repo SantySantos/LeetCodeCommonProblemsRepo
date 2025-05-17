@@ -11,8 +11,5 @@ int main()
     BegginerProblems myProblem;       
     IntermediateProblems myIProblems;
 
-    vector<int> nums = { 10, 2 };
-
-    myProblem.addDigits(123);
 }
 
