@@ -27,5 +27,5 @@ Problems are categorized by difficulty, in 3 sections.
 - 📧 Email: santysantos533@gmail.com
   
 ## 📌Notes: 
- Feel free to modify and explore the code as you wish.
- Suggestions are welcome.
+- Feel free to modify and explore the code as you wish.
+- Suggestions are welcome.
