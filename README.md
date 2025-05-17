@@ -26,6 +26,6 @@ Problems are categorized by difficulty, in 3 sections.
 - 💬 Discord: Santy#5886
 - 📧 Email: santysantos533@gmail.com
   
-##📌Notes: 
- eel free to modify and explore the code as you wish.
+## 📌Notes: 
+ Feel free to modify and explore the code as you wish.
  Suggestions are welcome.
