@@ -10,6 +10,8 @@ int main()
 {
     BegginerProblems myProblem;       
     IntermediateProblems myIProblems;
+    vector<int> asteroids = { 8, -8 };
 
+    myIProblems.asteroidCollision(asteroids);
 }
 

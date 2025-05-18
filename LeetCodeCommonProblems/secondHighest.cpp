@@ -9,6 +9,7 @@
 *
 * Approach: first we verift that the char is a digit, then make it rest by '0' char so it converts to int. After, 
 *			we keep updating the Largest number to keep track and be able to find the second largest, then we return it. 
+* 
 * Time complexity: O(n)
 */
 int BegginerProblems::secondHighest(string s) {
