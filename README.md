@@ -13,7 +13,8 @@ Problems are categorized by difficulty, in 3 sections.
  - Second Highest
    
 **Intermediate Problems:**
-
+ - Asteroid Problem.
+ 
 **Hard Problems:**
 
 ## 💡How to Use:
@@ -21,8 +22,8 @@ Problems are categorized by difficulty, in 3 sections.
 2. Run it in your preferable IDE. Example: VSCode, Visual Studio Community, Jetbrains Rider, etc...
    
 ## 📊Progress
-- ✅ **Problems Solved:** 4 (Updated regularly)
-- 🗓️ **Last Updated:** May 17, 2025
+- ✅ **Problems Solved:** 5 (Updated regularly)
+- 🗓️ **Last Updated:** May 18, 2025
 
 ## ✍️Author:
  Santiago Santos
