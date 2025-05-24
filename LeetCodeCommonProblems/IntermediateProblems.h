@@ -13,4 +13,7 @@ public:
 
 	//Asteroid Problem
 	vector<int> asteroidCollision(vector<int>& asteroids);
+
+	//Longest Substring Without Repeating Characters
+	int lengthOfLongestSubstring(string s);
 };
