@@ -11,7 +11,7 @@ int main()
     BegginerProblems myProblem;       
     IntermediateProblems myIProblems;
 
-    string s = "anviaj";
+    string s = "cdd";
 
     myIProblems.lengthOfLongestSubstring(s);
 }
