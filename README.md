@@ -11,6 +11,7 @@ Problems are categorized by difficulty, in 3 sections.
  - is Palindrome.
  - Add Digits.
  - Second Highest
+ - Two Sum
    
 **Intermediate Problems:**
  - Asteroid Problem.
