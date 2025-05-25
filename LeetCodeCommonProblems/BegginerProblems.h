@@ -20,4 +20,7 @@ public:
 	
 	//Second Largest Digit in a String
 	int secondHighest(string s);
+
+	//Two Sum
+	vector<int> twoSum(vector<int>& nums, int target);
 };

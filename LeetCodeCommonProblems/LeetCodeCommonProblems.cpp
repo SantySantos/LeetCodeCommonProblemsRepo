@@ -11,8 +11,8 @@ int main()
     BegginerProblems myProblem;       
     IntermediateProblems myIProblems;
 
-    string s = "cdd";
+    vector<int> myvect = { -3,4,3,90 };
 
-    myIProblems.lengthOfLongestSubstring(s);
+    myProblem.twoSum(myvect, 0);
 }
 
