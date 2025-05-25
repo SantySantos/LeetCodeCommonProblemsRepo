@@ -24,7 +24,7 @@ Problems are categorized by difficulty, in 3 sections.
 2. Run it in your preferable IDE. Example: VSCode, Visual Studio Community, Jetbrains Rider, etc...
    
 ## 📊Progress
-- ✅ **Problems Solved:** 6 (Updated regularly)
+- ✅ **Problems Solved:** 7 (Updated regularly)
 - 🗓️ **Last Updated:** May 24, 2025
 
 ## ✍️Author:
