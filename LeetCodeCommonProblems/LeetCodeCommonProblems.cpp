@@ -11,8 +11,11 @@ int main()
     BegginerProblems myProblem;       
     IntermediateProblems myIProblems;
 
-    vector<int> myvect = { -3,4,3,90 };
+    vector<int> nums = { 2,3,1,2,4,3 };
+    int target = 7;
 
-    myProblem.twoSum(myvect, 0);
+    int num = myIProblems.minSubArrayLen(target, nums);
+    
+    cout << num << endl;
 }
 

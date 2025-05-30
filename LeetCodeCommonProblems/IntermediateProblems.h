@@ -16,4 +16,8 @@ public:
 
 	//Longest Substring Without Repeating Characters
 	int lengthOfLongestSubstring(string s);
+
+	//Minimum Size Subarray Sum
+	int minSubArrayLen(int target, vector<int>& nums);
+
 };
