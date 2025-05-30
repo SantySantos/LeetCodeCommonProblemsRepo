@@ -16,6 +16,7 @@ Problems are categorized by difficulty, in 3 sections.
 **Intermediate Problems:**
  - Asteroid Problem.
  - Length of Longest Substring.
+ - Minimum Size Subarray Sum
  
 **Hard Problems:**
 
@@ -24,8 +25,8 @@ Problems are categorized by difficulty, in 3 sections.
 2. Run it in your preferable IDE. Example: VSCode, Visual Studio Community, Jetbrains Rider, etc...
    
 ## 📊Progress
-- ✅ **Problems Solved:** 7 (Updated regularly)
-- 🗓️ **Last Updated:** May 24, 2025
+- ✅ **Problems Solved:** 8 (Updated regularly)
+- 🗓️ **Last Updated:** May 30, 2025
 
 ## ✍️Author:
  Santiago Santos
