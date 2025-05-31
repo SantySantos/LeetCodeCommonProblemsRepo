@@ -13,9 +13,10 @@ int main()
 
     vector<int> nums = { 2,3,1,2,4,3 };
     int target = 7;
-
-    int num = myIProblems.minSubArrayLen(target, nums);
     
-    cout << num << endl;
+    string s = "rat";
+    string t = "car";
+
+    myProblem.isAnagram(s, t);
 }
 

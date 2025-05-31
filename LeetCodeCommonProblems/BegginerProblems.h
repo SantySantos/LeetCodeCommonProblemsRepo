@@ -23,4 +23,7 @@ public:
 
 	//Two Sum
 	vector<int> twoSum(vector<int>& nums, int target);
+
+	//Valid Anagram
+	bool isAnagram(string s, string t);
 };
