@@ -10,13 +10,14 @@ Problems are categorized by difficulty, in 3 sections.
  - Reverse an Array.
  - is Palindrome.
  - Add Digits.
- - Second Highest
- - Two Sum
+ - Second Highest.
+ - Two Sum.
+ - Valid Anagram.
    
 **Intermediate Problems:**
  - Asteroid Problem.
  - Length of Longest Substring.
- - Minimum Size Subarray Sum
+ - Minimum Size Subarray Sum.
  
 **Hard Problems:**
 
@@ -25,7 +26,7 @@ Problems are categorized by difficulty, in 3 sections.
 2. Run it in your preferable IDE. Example: VSCode, Visual Studio Community, Jetbrains Rider, etc...
    
 ## 📊Progress
-- ✅ **Problems Solved:** 8 (Updated regularly)
+- ✅ **Problems Solved:** 9 (Updated regularly)
 - 🗓️ **Last Updated:** May 30, 2025
 
 ## ✍️Author:
