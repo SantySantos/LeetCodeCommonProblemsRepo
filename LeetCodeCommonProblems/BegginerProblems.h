@@ -26,4 +26,5 @@ public:
 
 	//Valid Anagram
 	bool isAnagram(string s, string t);
+	bool isAnagramHashmap(string s, string t);
 };
