@@ -10,14 +10,14 @@ Problems are categorized by difficulty, in 3 sections.
  - Reverse an Array.
  - is Palindrome.
  - Add Digits.
- - Second Highest
- - Two Sum
- - Valid Anagram
+ - Second Highest.
+ - Two Sum.
+ - Valid Anagram.
    
 **Intermediate Problems:**
  - Asteroid Problem.
  - Length of Longest Substring.
- - Minimum Size Subarray Sum
+ - Minimum Size Subarray Sum.
  
 **Hard Problems:**
 
