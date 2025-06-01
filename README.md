@@ -6,20 +6,19 @@ Through this project, some of the common LeetCode problems will be answered from
 ## 🌐Project Structure
 Problems are categorized by difficulty, in 3 sections.
 
-**Beginner Problems:**
- - Reverse an Array.
- - is Palindrome.
- - Add Digits.
- - Second Highest.
- - Two Sum.
- - Valid Anagram.
+**Strings And Arrays:**
+
    
-**Intermediate Problems:**
- - Asteroid Problem.
- - Length of Longest Substring.
- - Minimum Size Subarray Sum.
- 
-**Hard Problems:**
+ **Sliding Window:**
+
+   
+ **Two Pointers:**
+
+   
+**HashMap:**
+
+**Math:**
+ -Add Digits
 
 ## 💡How to Use:
 1. Download the project files
