@@ -4,22 +4,29 @@
 Through this project, some of the common LeetCode problems will be answered from a beginner level to a more advanced one in C++. Around 2 to 5 problems will be solved every week. These problems will be answered in 1 to 3 possible ways, aiming each time for a better time complexity, a little summary of it will be included before each solution. It is designed to learn, practice, and understand common algorithmic challenges.
 
 ## 🌐Project Structure
-Problems are categorized by difficulty, in 3 sections.
+Problems are categorized by algorithmic pattern.
 
-**Beginner Problems:**
- - Reverse an Array.
- - is Palindrome.
- - Add Digits.
- - Second Highest.
- - Two Sum.
- - Valid Anagram.
+**Strings And Arrays:**
+- Reverse An Array *(Easy)*
+- Second Highest *(Easy)*
+- ReverseWordsInAString *(Medium)*
    
-**Intermediate Problems:**
- - Asteroid Problem.
- - Length of Longest Substring.
- - Minimum Size Subarray Sum.
- 
-**Hard Problems:**
+ **Sliding Window:**
+- lengthOfLongestSubstring *(Medium)*
+- MinimumSizeSubarraySum *(Medium)*
+   
+ **Two Pointers:**
+ - Is Palindrome *(Easy)*
+
+**HashMap:**
+- Two Sum *(Easy)*
+- Valid Anagram *(Easy)*
+
+**Stack:**
+- Asteroid Problem *(Medium)*
+  
+**Math:**
+- Add Digits *(Easy)*
 
 ## 💡How to Use:
 1. Download the project files
