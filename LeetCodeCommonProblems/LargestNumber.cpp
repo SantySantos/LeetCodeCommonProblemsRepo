@@ -1,5 +1,5 @@
 #include <vector>
-#include "IntermediateProblems.h"
+#include "SlidingWindow.h"
 #include <string>
 #include <iostream>
 
@@ -15,7 +15,7 @@ using namespace std;
 *
 * Time complexity:
 */
-string IntermediateProblems::largestNumber(vector<int>& nums) {
+string SlidingWindow::largestNumber(vector<int>& nums) {
 
 	vector<string> stringNums;
 

@@ -16,4 +16,7 @@ public:
 	
 	//Reverse Words in a String
 	string reverseWords(string s);
+
+	//Merge Sorted Array
+	void merge(vector<int>& nums1, int m, vector<int>& nums2, int n);
 };
