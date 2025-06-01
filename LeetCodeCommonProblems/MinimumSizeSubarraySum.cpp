@@ -1,5 +1,5 @@
 #include <iostream>
-#include "IntermediateProblems.h"
+#include "SlidingWindow.h"
 #include <vector>
 
 /*
@@ -16,7 +16,7 @@ get the smallest length that sums up the target. If we traverse all the vector a
 * Time complexity: O(N)
 *
 */
-int IntermediateProblems::minSubArrayLen(int target, vector<int>& nums) {
+int SlidingWindow::minSubArrayLen(int target, vector<int>& nums) {
 
 	int l = 0;
 

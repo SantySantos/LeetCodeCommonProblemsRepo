@@ -1,6 +1,6 @@
 #include <string>
 #include <unordered_map> 
-#include "IntermediateProblems.h"
+#include "SlidingWindow.h"
 
 /*
 * Problem: Longest Substring Without Repeating Characters
@@ -18,7 +18,7 @@
 * special thanks to Algo Engine : https://www.youtube.com/watch?v=pY2dYa1m2VM for the help finding a solution to this problem and 
 * help me understant the sliding window technique!
 */
-int IntermediateProblems::lengthOfLongestSubstring(string s) {
+int SlidingWindow::lengthOfLongestSubstring(string s) {
 
 	int l = 0;
 	unordered_map<char, int> seen;

@@ -1,4 +1,4 @@
-#include "IntermediateProblems.h"
+#include "Stack.h"
 #include <vector>
 #include <deque>
 
@@ -16,7 +16,7 @@ using namespace std;
 * 
 * Time complexity: O(N^2)
 */
-vector<int> IntermediateProblems::asteroidCollision(vector<int>& asteroids) {
+vector<int> Stack::asteroidCollision(vector<int>& asteroids) {
 
 	int i = 0;
 

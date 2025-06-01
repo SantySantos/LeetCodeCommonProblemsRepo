@@ -1,5 +1,5 @@
 #include <iostream>
-#include "BegginerProblems.h"
+#include "Math.h"
 #include <string>
 
 using namespace std;
@@ -12,9 +12,9 @@ using namespace std;
 * Approach: converting the num into a string, then looping each char and adding the sum to a num using ASCII '0', which will make the char always return its integer,
 *			then validating if its a number less than 10. If not, repeat the loop again
 *
-* Time complexity: O(log n)^2)
+* Time complexity: O((log n)^2)
 */
-int BegginerProblems::addDigits(int num) {
+int Math::addDigits(int num) {
 
 	bool isValid = false;
 	int result = 0;

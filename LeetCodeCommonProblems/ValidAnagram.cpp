@@ -1,5 +1,5 @@
 #include <iostream>
-#include "BegginerProblems.h"
+#include "HashMap.h"
 #include <unordered_map>
 #include <string>
 #include <algorithm>
@@ -14,7 +14,7 @@
 *
 * Time complexity: O(n)
 */
-bool BegginerProblems::isAnagramHashmap(string s, string t) {
+bool HashMap::isAnagramHashmap(string s, string t) {
 
 	if (s.length() != t.length()) return false;
 
@@ -34,7 +34,7 @@ bool BegginerProblems::isAnagramHashmap(string s, string t) {
 *
 * Time complexity: O(n log n)
 */
-bool BegginerProblems::isAnagram(string s, string t) {
+bool HashMap::isAnagram(string s, string t) {
 
 	if (s.length() != t.length()) return false;
 

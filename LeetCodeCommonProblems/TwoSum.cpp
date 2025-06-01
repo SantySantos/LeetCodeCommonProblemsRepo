@@ -1,5 +1,5 @@
 #include <iostream>
-#include "BegginerProblems.h"
+#include "HashMap.h"
 #include <unordered_map>
 #include <vector>
 
@@ -14,7 +14,7 @@
 *
 * Time complexity: O(N)
 */
-vector<int> BegginerProblems::twoSum(vector<int>& nums, int target) {
+vector<int> HashMap::twoSum(vector<int>& nums, int target) {
 
 	unordered_map<int, int> seen;
 	vector<int> selectedValues;

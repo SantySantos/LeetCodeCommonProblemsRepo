@@ -3,7 +3,7 @@
 #include <cctype>
 #include <stack>
 #include <queue>
-#include "BegginerProblems.h"
+#include "TwoPointers.h"
 
 using namespace std;
 
@@ -17,7 +17,7 @@ using namespace std;
 *
 * Time complexity: O(n)/2
 */
-bool BegginerProblems::isPalindrome(string s) {
+bool TwoPointers::isPalindrome(string s) {
 
 	int end = s.length() - 1;
 	int start = 0;
@@ -56,7 +56,7 @@ bool BegginerProblems::isPalindrome(string s) {
 *
 * Time complexity: O(N^2)
 */
-bool BegginerProblems::isPalindromeUsingStackAndQueue(string s) {
+bool TwoPointers::isPalindromeUsingStackAndQueue(string s) {
 
 	stack<char> myStack;
 	queue<char> myQueue;

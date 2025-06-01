@@ -1,5 +1,5 @@
 #include <iostream>
-#include "BegginerProblems.h"
+#include "StringsAndArrays.h"
 #include <string>
 #include <cctype>
 /*
@@ -12,7 +12,7 @@
 * 
 * Time complexity: O(n)
 */
-int BegginerProblems::secondHighest(string s) {
+int StringsAndArrays::secondHighest(string s) {
 	
 	int LargestNum = -2;
 	int secondLargestNum = -1;

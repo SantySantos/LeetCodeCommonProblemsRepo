@@ -1,5 +1,5 @@
 #include <vector>
-#include "BegginerProblems.h"
+#include "StringsAndArrays.h"
 
 /*
 * Problem: Reverse string
@@ -11,7 +11,7 @@
 * 
 * Time complexity: O(n)/2			
 */
-void BegginerProblems::reverseString(vector<char>& s) {
+void StringsAndArrays::reverseString(vector<char>& s) {
 
 	int start = 0;
 	int end = s.size() - 1;
