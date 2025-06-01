@@ -8,25 +8,25 @@ Problems are categorized by algorithmic pattern.
 
 **Strings And Arrays:**
 - Reverse An Array *(Easy)*
-- Second Highest
-- ReverseWordsInAString
+- Second Highest *(Easy)*
+- ReverseWordsInAString *(Medium)*
    
  **Sliding Window:**
-- lengthOfLongestSubstring
-- MinimumSizeSubarraySum
+- lengthOfLongestSubstring *(Medium)*
+- MinimumSizeSubarraySum *(Medium)*
    
  **Two Pointers:**
- - Is Palindrome
+ - Is Palindrome *(Easy)*
 
 **HashMap:**
-- Two Sum
-- Valid Anagram
+- Two Sum *(Easy)*
+- Valid Anagram *(Easy)*
 
 **Stack:**
-- Asteroid Problem
+- Asteroid Problem *(Medium)*
   
 **Math:**
-- Add Digits
+- Add Digits *(Easy)*
 
 ## 💡How to Use:
 1. Download the project files
