@@ -9,6 +9,7 @@ Problems are categorized by algorithmic pattern.
 **Strings And Arrays:**
 - Reverse An Array *(Easy)*
 - Second Highest *(Easy)*
+- Merge Sorted Array *(Easy)*
 - ReverseWordsInAString *(Medium)*
    
  **Sliding Window:**
