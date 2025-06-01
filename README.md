@@ -18,7 +18,7 @@ Problems are categorized by difficulty, in 3 sections.
 **HashMap:**
 
 **Math:**
- -Add Digits
+- Add Digits
 
 ## 💡How to Use:
 1. Download the project files
