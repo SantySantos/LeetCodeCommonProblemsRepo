@@ -23,4 +23,6 @@ public:
 	//Remove Element
 	int removeElement(vector<int>& nums, int val);
 
+	//Remove Duplicates from Sorted Array
+	int removeDuplicates(vector<int>& nums);
 };
