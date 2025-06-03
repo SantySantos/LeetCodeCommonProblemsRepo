@@ -11,6 +11,7 @@ Problems are categorized by algorithmic pattern.
 - Second Highest *(Easy)*
 - Merge Sorted Array *(Easy)*
 - Remove Element *(Easy)*
+- Remove Duplicates from Sorted Array *(Easy)*
 - ReverseWordsInAString *(Medium)*
    
  **Sliding Window:**
