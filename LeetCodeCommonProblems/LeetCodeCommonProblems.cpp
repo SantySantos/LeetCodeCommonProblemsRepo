@@ -8,11 +8,11 @@ using namespace std;
 int main()
 {
 	StringsAndArrays arrs;
-	vector<int> nums1 = { 0,0,1,1,1,2,2,3,3,4 };
+	vector<int> nums1 = { 1,1,1,2,2,2,3,3 };
 	int m = 2;
 	vector<int> nums2 = { 1 };
 	int n = 1;
 
-	arrs.removeDuplicates(nums1);
+	arrs.removeDuplicatesII(nums1);
 }
 

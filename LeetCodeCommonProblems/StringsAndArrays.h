@@ -25,4 +25,7 @@ public:
 
 	//Remove Duplicates from Sorted Array
 	int removeDuplicates(vector<int>& nums);
+
+	//Remove Duplicates from Sorted Array II
+	int removeDuplicatesII(vector<int>& nums);
 };
