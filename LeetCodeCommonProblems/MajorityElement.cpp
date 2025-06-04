@@ -1,4 +1,5 @@
 #include "StringsAndArrays.h"
+#include <unordered_map>
 
 /*
 * Problem: Majority Element
@@ -28,4 +29,25 @@ int StringsAndArrays::majorityElement(vector<int>& nums) {
 	}
 
 	return candidate;
+}
+
+/*
+*  Approach: using a hashmap we keep track of the amount of numbers in the arr/vec and if the amount is greater than nums.size() / 2
+*			it means the number is the most ofter and its returned(as the problem states the major element appears more than nums.size() / 2 
+*			and I must assume it always exist.
+*			 
+* Time complexity: O(n)
+*/
+int StringsAndArrays::majorityElementHashMap(vector<int>& nums) {
+
+	unordered_map<int, int> counter;
+	
+	for (int n : nums) {
+		counter[n]++;
+
+		if (counter[n] > (nums.size() / 2))
+			return n;
+	}
+
+	return -1;
 }

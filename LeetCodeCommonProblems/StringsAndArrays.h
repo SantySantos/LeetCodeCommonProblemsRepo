@@ -31,4 +31,5 @@ public:
 
 	//Majority Element
 	int majorityElement(vector<int>& nums);
+	int majorityElementDivideAndConquer(vector<int>& nums);
 };
