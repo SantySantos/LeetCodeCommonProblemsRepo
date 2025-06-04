@@ -14,6 +14,7 @@ Problems are categorized by algorithmic pattern.
 - Remove Duplicates from Sorted Array *(Easy)*
 - Remove Duplicates from Sorted Array II *(Medium)*
 -  Majority Element *(Easy)*
+-  Majority Element II *(Medium)*
 - ReverseWordsInAString *(Medium)*
    
  **Sliding Window:**
