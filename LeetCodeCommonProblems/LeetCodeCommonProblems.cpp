@@ -8,11 +8,11 @@ using namespace std;
 int main()
 {
 	StringsAndArrays arrs;
-	vector<int> nums1 = { 0,1,2,2,2,2,2,3,4,4,4 };
+	vector<int> nums1 = { 2,1,1,3,1,4,5,6 };
 	int m = 2;
 	vector<int> nums2 = { 1 };
 	int n = 1;
 
-	arrs.removeDuplicatesII(nums1);
+	arrs.majorityElementIIBoyerMoore(nums1);
 }
 

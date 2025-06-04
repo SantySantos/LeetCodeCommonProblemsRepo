@@ -34,5 +34,6 @@ public:
 	int majorityElementHashMap(vector<int>& nums);
 
 	//Majority Element II
+	vector<int> majorityElementIIBoyerMoore(vector<int>& nums);
 	vector<int> majorityElementII(vector<int>& nums);
 };
