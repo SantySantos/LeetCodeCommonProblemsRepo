@@ -32,4 +32,7 @@ public:
 	//Majority Element
 	int majorityElement(vector<int>& nums);
 	int majorityElementHashMap(vector<int>& nums);
+
+	//Majority Element II
+	vector<int> majorityElementII(vector<int>& nums);
 };
