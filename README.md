@@ -12,6 +12,7 @@ Problems are categorized by algorithmic pattern.
 - Merge Sorted Array *(Easy)*
 - Remove Element *(Easy)*
 - Remove Duplicates from Sorted Array *(Easy)*
+- Remove Duplicates from Sorted Array II *(Medium)*
 - ReverseWordsInAString *(Medium)*
    
  **Sliding Window:**
