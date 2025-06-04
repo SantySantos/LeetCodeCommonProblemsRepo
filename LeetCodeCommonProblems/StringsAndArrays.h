@@ -28,4 +28,7 @@ public:
 
 	//Remove Duplicates from Sorted Array II
 	int removeDuplicatesII(vector<int>& nums);
+
+	//Majority Element
+	int majorityElement(vector<int>& nums);
 };
