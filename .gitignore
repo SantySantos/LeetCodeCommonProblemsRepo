@@ -401,3 +401,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+*.xml
+*.iml
+.idea/.idea.LeetCodeCommonProblems/.idea/workspace.xml
+.idea/.idea.LeetCodeCommonProblems/.idea/workspace.xml
+*.xml
