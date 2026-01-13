@@ -23,6 +23,7 @@ Problems are categorized by algorithmic pattern.
    
  **Two Pointers:**
  - Is Palindrome *(Easy)*
+ - Is Subsequence 
 
 **HashMap:**
 - Two Sum *(Easy)*
