@@ -23,6 +23,7 @@ Problems are categorized by algorithmic pattern.
    
  **Two Pointers:**
  - Is Palindrome *(Easy)*
+ - Is Subsequence 
 
 **HashMap:**
 - Two Sum *(Easy)*
@@ -39,8 +40,8 @@ Problems are categorized by algorithmic pattern.
 2. Run it in your preferable IDE. Example: VSCode, Visual Studio Community, Jetbrains Rider, etc...
    
 ## 📊Progress
-- ✅ **Problems Solved:** 9 (Updated regularly)
-- 🗓️ **Last Updated:** May 30, 2025
+- ✅ **Problems Solved:** 17 
+- 🗓️ **Last Updated:** Jan 12, 2026
 
 ## ✍️Author:
  Santiago Santos
