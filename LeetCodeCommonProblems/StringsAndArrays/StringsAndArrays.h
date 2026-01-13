@@ -36,4 +36,7 @@ public:
 	//Majority Element II
 	vector<int> majorityElementIIBoyerMoore(vector<int>& nums);
 	vector<int> majorityElementII(vector<int>& nums);
+
+	//Buy and Sell Stuck
+	int maxProfit(vector<int>& prices);
 };

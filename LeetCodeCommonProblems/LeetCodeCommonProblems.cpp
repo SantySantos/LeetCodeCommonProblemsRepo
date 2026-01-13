@@ -8,9 +8,11 @@ using namespace std;
 
 int main()
 {
-	TwoPointers isSubs;
+	StringsAndArrays bas;
 
-	bool result = isSubs.isSubsequence("aza", "abzba");
+	vector <int> prices = {2,4,1};
+	
+	int  result = bas.maxProfit(prices);
 
 	cout << result << endl;
 
