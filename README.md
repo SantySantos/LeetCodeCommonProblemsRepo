@@ -40,7 +40,7 @@ Problems are categorized by algorithmic pattern.
 2. Run it in your preferable IDE. Example: VSCode, Visual Studio Community, Jetbrains Rider, etc...
    
 ## 📊Progress
-- ✅ **Problems Solved:** 9 (Updated regularly)
+- ✅ **Problems Solved:** 17 (Updated regularly)
 - 🗓️ **Last Updated:** May 30, 2025
 
 ## ✍️Author:
