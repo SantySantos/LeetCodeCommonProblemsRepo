@@ -1,6 +1,7 @@
 #include <iostream>
 #include "StringsAndArrays/StringsAndArrays.h"
 #include "TwoPointers/TwoPointers.h"
+#include "Hashmap/HashMap.h"
 #include <string>
 #include <vector>
 
@@ -8,13 +9,12 @@ using namespace std;
 
 int main()
 {
-	StringsAndArrays bas;
+	HashMap bas;
 
-	vector <int> prices = {2,4,1};
-	
-	int  result = bas.maxProfit(prices);
+	string ransomNote = "a";
+	string magazine = "b";
 
-	cout << result << endl;
+	bool isRansom = bas.canConstruct(ransomNote, magazine);
 
 	return 0;
 }

@@ -11,7 +11,7 @@
 *
 * Time complexity: O(n)
 */
-int  StringsAndArrays::maxProfit(vector<int>& prices)
+int  StringsAndArrays::maxProfit(vector<int>& prices) 
 {
 
     int buy = prices[0];
