@@ -9,12 +9,12 @@ using namespace std;
 
 int main()
 {
-	HashMap bas;
+	StringsAndArrays bas;
 
 	string ransomNote = "a";
 	string magazine = "b";
 
-	bool isRansom = bas.canConstruct(ransomNote, magazine);
+	int size = bas.lengthOfLastWord("   fly me   to   the moon  ");
 
 	return 0;
 }

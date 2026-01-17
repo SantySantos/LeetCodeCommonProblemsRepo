@@ -8,11 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="123babd7-d488-43cb-b002-3bcac4edeb0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCodeCommonProblems/Hashmap/RansomNote.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeCommonProblems/StringsAndArrays/LenghtOfLastWord.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCodeCommonProblems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeCommonProblems/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeCommonProblems/Hashmap/HashMap.h" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeCommonProblems/Hashmap/HashMap.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCodeCommonProblems/LeetCodeCommonProblems.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeCommonProblems/LeetCodeCommonProblems.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeCommonProblems/StringsAndArrays/BuyAndSellStock.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeCommonProblems/StringsAndArrays/BuyAndSellStock.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeCommonProblems/StringsAndArrays/StringsAndArrays.h" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeCommonProblems/StringsAndArrays/StringsAndArrays.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,7 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://0" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/xmemory" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../../../../Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.44.35207/include/xstring" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -55,7 +55,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "C/C++ Project.LeetCodeCommonProblems.executor": "Debug",
+    "C/C++ Project.LeetCodeCommonProblems.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -101,6 +101,7 @@
       <workItem from="1767039307824" duration="1971000" />
       <workItem from="1768335624848" duration="6202000" />
       <workItem from="1768424217643" duration="3606000" />
+      <workItem from="1768583876581" duration="3546000" />
     </task>
     <servers />
   </component>

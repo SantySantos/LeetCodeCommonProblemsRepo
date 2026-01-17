@@ -39,4 +39,8 @@ public:
 
 	//Buy and Sell Stuck
 	int maxProfit(vector<int>& prices);
+
+	//Length of last word
+	int lengthOfLastWord(string s);
+
 };
