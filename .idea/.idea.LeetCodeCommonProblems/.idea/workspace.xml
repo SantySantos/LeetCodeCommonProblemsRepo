@@ -7,12 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="123babd7-d488-43cb-b002-3bcac4edeb0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCodeCommonProblems/StringsAndArrays/LenghtOfLastWord.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCodeCommonProblems/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeCommonProblems/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeCommonProblems/LeetCodeCommonProblems.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeCommonProblems/LeetCodeCommonProblems.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeCommonProblems/StringsAndArrays/StringsAndArrays.h" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeCommonProblems/StringsAndArrays/StringsAndArrays.h" afterDir="false" />
-    </list>
+    <list default="true" id="123babd7-d488-43cb-b002-3bcac4edeb0f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +96,7 @@
       <workItem from="1767039307824" duration="1971000" />
       <workItem from="1768335624848" duration="6202000" />
       <workItem from="1768424217643" duration="3606000" />
-      <workItem from="1768583876581" duration="3546000" />
+      <workItem from="1768583876581" duration="4945000" />
     </task>
     <servers />
   </component>
