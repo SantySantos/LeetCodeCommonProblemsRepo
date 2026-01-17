@@ -7,33 +7,35 @@ Through this project, some of the common LeetCode problems will be answered from
 Problems are categorized by algorithmic pattern.
 
 **Strings And Arrays:**
-- Reverse An Array *(Easy)*
-- Second Highest *(Easy)*
-- Merge Sorted Array *(Easy)*
-- Remove Element *(Easy)*
-- Remove Duplicates from Sorted Array *(Easy)*
-- Remove Duplicates from Sorted Array II *(Medium)*
--  Majority Element *(Easy)*
--  Majority Element II *(Medium)*
-- ReverseWordsInAString *(Medium)*
+- Reverse An Array 
+- Second Highest 
+- Merge Sorted Array 
+- Remove Element 
+- Remove Duplicates from Sorted Array 
+- Remove Duplicates from Sorted Array II 
+-  Majority Element 
+-  Majority Element II 
+- ReverseWordsInAString
+- Best Time to Buy and Sell Stock
    
  **Sliding Window:**
-- lengthOfLongestSubstring *(Medium)*
-- MinimumSizeSubarraySum *(Medium)*
+- lengthOfLongestSubstring 
+- MinimumSizeSubarraySum 
    
  **Two Pointers:**
- - Is Palindrome *(Easy)*
+ - Is Palindrome 
  - Is Subsequence 
 
 **HashMap:**
-- Two Sum *(Easy)*
-- Valid Anagram *(Easy)*
+- Two Sum 
+- Valid Anagram 
+- RansomNote
 
 **Stack:**
-- Asteroid Problem *(Medium)*
+- Asteroid Problem
   
 **Math:**
-- Add Digits *(Easy)*
+- Add Digits 
 
 ## 💡How to Use:
 1. Download the project files
